@@ -8,7 +8,7 @@ A local-first AI agent with tool use, RAG over large PDF collections, vision/OCR
 
 ```bash
 # 1. Clone and enter project
-cd jarvis-agent
+cd lazybot-agent
 
 # 2. Create virtual environment
 python -m venv .venv
